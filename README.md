@@ -1,7 +1,7 @@
-// Author: Thomas Kugelman
-// Date Created: February, 2020
-// Date Revised: June, 2020
-// Language C# Console Application
+Author: Thomas Kugelman
+Date Created: February, 2020
+Date Revised: June, 2020
+Language C# Console Application
 
 # Anagram Detector
  A simple program that takes two strings as inputs from the user and returns whether they are anagrams or not
