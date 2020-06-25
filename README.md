@@ -1,6 +1,9 @@
 > Author: Thomas Kugelman
+
 > Date Created: February, 2020
+
 > Date Revised: June, 2020
+
 > Language C# Console Application
 
 # Anagram Detector
