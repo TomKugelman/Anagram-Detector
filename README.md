@@ -20,7 +20,7 @@ Either the two user entered words are anagrams or they are not
 - Failure output: "__wordOne__ and __wordTwo__ are not anagrams."
 
 ## Notes
-This was originally an assignment for a Data Structures and Algorithms class. I decided to add an ESCAPE option when the [escape] key is pressed because using key inputs was new to me at the time and I foudn this to be an easy assignment.
+This was originally an assignment for a Data Structures and Algorithms class. I decided to add an ESCAPE option when the [escape] key is pressed because using key inputs was new to me at the time and I found this to be an easy assignment.
 
 ## Improvements
-If I was going to continue developing this application I would find a way to link it to a word-bank to allow for a separate function that FINDS an anagram for a given word. This is clealry otuside the scope of this project and I would prefer to move on to more interesting projects, but it is possible I will revisit this app in the future. However, as it stands I am happy with the state of it as-is.
+If I was going to continue developing this application I would find a way to link it to a word-bank to allow for a separate function that FINDS an anagram for a given word. This is clearly outside the scope of this project and I would prefer to move on to more interesting projects, but it is possible I will revisit this app in the future. However, as it stands I am happy with the state of it as-is.
