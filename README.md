@@ -12,7 +12,7 @@ A console application that takes two strings as inputs from the user and returns
 
 ## Functions
 - Input Validation: No special characters or numbers accepted, will prompt an "Invalid Input!" response when unaccepted characters are used
-- Anagram Checker: Initially compares word lengths, if they are equal the fucntion attempts ot find matches for each letter and removes them from each string. If zero letters are left in both strings we have found an anagram, if either string has any letters left when the other is completely empty they are nto anagrams
+- Anagram Checker: Initially compares word lengths, if they are equal the function attempts ot find matches for each letter and removes them from each string. If zero letters are left in both strings we have found an anagram, if either string has any letters left when the other is completely empty they are nto anagrams
 
 ## Output
 Either the two user entered words are anagrams or they are not
