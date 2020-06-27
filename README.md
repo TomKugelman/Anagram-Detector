@@ -8,7 +8,7 @@
 > Language C# Console Application
 
 ## Description
-A consoel applicatin that takes two strings as inputs from the user and returns whether they are anagrams or not
+A console application that takes two strings as inputs from the user and returns whether they are anagrams or not
 
 ## Functions
 - Input Validation: No special characters or numbers accepted, will prompt an "Invalid Input!" response when unaccepted characters are used
