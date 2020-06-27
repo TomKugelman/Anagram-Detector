@@ -23,4 +23,4 @@ Either the two user entered words are anagrams or they are not
 
 
 ## Improvements
-If I was going to continue developing this application I would find a way to link it to a word-bank to allow for a separate function that FINDS an anagram for a given word. This is clearly outside the scope of this project and I would prefer to move on to more interesting projects, but it is possible I will revisit this app in the future. However, as it stands I am happy with the state of it as-is.
+If I was going to continue developing this application, I would find a way to link it to a word-bank to allow for a separate function that FINDS an anagram for a given word. It is possible I will revisit this app in the future. However, as it stands I am happy with the state of it as-is.
